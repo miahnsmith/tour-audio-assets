@@ -12,6 +12,14 @@ Current approved files:
 - `02-meet-gruene.mp3`
 - `03-gruene-outfitters.mp3`
 - `04-the-pomegranate.mp3`
+- `05-the-gristmill.mp3`
+- `06-gruene-hall.mp3`
+- `07-mozies.mp3`
+- `08-gruene-cottages.mp3`
+- `09-the-barn-pottery.mp3`
+- `10-cosmic-plant-company.mp3`
+- `11-rheas-ice-cream.mp3`
+- `12-got-toys.mp3`
 
 The source-of-truth approvals remain in the Meet This Place Google Drive project. Only approved production MP3s should be copied here.
 
