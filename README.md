@@ -4,13 +4,14 @@ This public repository hosts approved production audio used by the Meet This Pla
 
 ## Gruene
 
-Approved Gruene tracks live under `gruene/` and use stable numbered filenames so the application can reference them directly from GitHub without Lovable-managed asset URLs.
+Approved Gruene tracks currently live at the repository root and use stable numbered filenames so the application can reference them directly from GitHub without Lovable-managed asset URLs.
 
-For the current test increment, the required files are:
+Current approved files:
 
-- `gruene/01-meet-gruene.mp3`
-- `gruene/02-gruene-outfitters.mp3`
-- `gruene/03-the-pomegranate.mp3`
+- `01-meet-this-place-intro.mp3`
+- `02-meet-gruene.mp3`
+- `03-gruene-outfitters.mp3`
+- `04-the-pomegranate.mp3`
 
 The source-of-truth approvals remain in the Meet This Place Google Drive project. Only approved production MP3s should be copied here.
 
